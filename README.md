@@ -100,7 +100,7 @@ module-level definitions across all 1,000 files.
 Each file follows the same shape:
 
 ```
-algorithm-XXXX.py
+algorithms/algorithm-XXXX.py
 ├── imports            # heapq, math, bisect, collections
 ├── ALGORITHM BLOCKS   # shuffled definitions, each suffixed _XXXX_YYYY
 ├── LOOKUP_XXXX_NNN    # module constants (only when needed for exact line count)
@@ -119,7 +119,7 @@ imported together without collisions.
 
 ## Sample
 
-Excerpt from `algorithm-0042.py`:
+Excerpt from `algorithms/algorithm-0042.py`:
 
 ```python
 import heapq
