@@ -24,7 +24,7 @@ built to train and evaluate code language models.**
 
 ## Overview
 
-`VersionControlData` is a code-only dataset containing **1,000 standalone Python
+This repository is a code-only dataset containing **1,000 standalone Python
 modules** (`.py`), each ranging from **100 to 4,000 lines**. The corpus totals
 **1,739,445 lines** and **127,882 module-level function and class definitions**,
 covering classic search, sorting, graph, dynamic-programming, string, math, and
@@ -214,7 +214,7 @@ content as **all rights reserved** by the repository owner.
 
 ---
 
-**Repository:** [sukhee-2626/VersionControlData](https://github.com/sukhee-2626/VersionControlData)  
+**Repository:** [sukhee-2626/-Python-Algo-Dataset](https://github.com/sukhee-2626/-Python-Algo-Dataset)  
 **Version 1.0** · 1,000 files · 1,739,445 lines · 53 MiB
 
 </div>
