@@ -95,6 +95,15 @@ module-level definitions across all 1,000 files.
 
 </details>
 
+## Documentation
+
+**[📚 Algorithm reference →](docs/algorithms/README.md)**
+
+One page per algorithm — 40 in total — covering purpose, complexity, signature,
+variant count, and a verified example executed against a real module. The index
+is grouped by family: Search, Sorting, Graph, DP & greedy, Strings,
+Math & backtracking, and Data structures & misc.
+
 ## File layout
 
 Each file follows the same shape:
